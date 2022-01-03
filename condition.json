@@ -1,0 +1,27 @@
+{
+	"Disease one": {
+		"name": "Abdominal Aortic Aneurysm",
+		"definition": "An abdominal aortic aneurysm is a bulge in the main blood vessel running from your heart to your tummy. It can be dangerous if it's not spotted early.",
+		"symptoms": "There are usually no early symptoms of an abdominal aortic aneurysm. A screening test can spot an aneurysm if you're at risk of them."
+	},
+	"Disease two": {
+		"name": "Acute cholecystitis",
+		"definition": "Acute cholecystitis is inflammation of the gallbladder. It usually happens when a gallstone blocks the cystic duct.",
+		"symptoms": "The main symptom of acute cholecystitis is a sudden, sharp pain in the upper right-hand side of your tummy (abdomen). This pain spreads towards your right shoulder."
+	},
+	"Disease three": {
+		"name": "Subarachnoid haemorrhage",
+		"definition": "A subarachnoid haemorrhage is an uncommon type of stroke caused by bleeding on the surface of the brain. It's a very serious condition and can be fatal.",
+		"symptoms": "There are usually no warning signs, but a subarachnoid haemorrhage sometimes happens during physical effort or straining, such as coughing, going to the toilet, lifting something heavy or having sex."
+	},
+	"Disease four": {
+		"name": "Glomerulonephritis",
+		"definition": "Glomerulonephritis is damage to the tiny filters inside your kidneys (the glomeruli). It's often caused by your immune system attacking healthy body tissue.",
+		"symptoms": "In severe cases of glomerulonephritis, you may see blood in your urine. However, this is usually noticed when a urine sample is tested."
+	},
+	"Disease five": {
+		"name": "Fibromyalgia",
+		"definition": "Fibromyalgia, also called fibromyalgia syndrome (FMS), is a long-term condition that causes pain all over the body.",
+		"symptoms": "In cases you may have increased sensitivity to pain, extreme tiredness, muscle stiffness, difficulty sleeping"
+	}
+}
